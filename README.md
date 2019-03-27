@@ -34,3 +34,12 @@ umejug-env\Scripts\activate.bat
 pip install -r requirements.txt
 jupyter notebook
 ```
+
+Python with venv
+
+```
+python -m venv c:\umejug-env
+c:\umejug-env\Scripts\activate.bat
+pip install -r requirements.txt
+jupyter notebook
+```
